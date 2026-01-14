@@ -1,10 +1,10 @@
 ﻿Conflitos Bélicos - Bancos de Dados 2 - 06/2025
 
 
-Artur Daichi Gonçalves Inazaki - 14676716
-Eduardo Veiga - 13633932
-Pedro Henrique Chaves Lopo - 14835007
-Rafael de Sousa Muniz - 14659644
+Artur Daichi Gonçalves Inazaki 
+Eduardo Veiga 
+Pedro Henrique Chaves Lopo 
+Rafael de Sousa Muniz 
 
 
 Requisitos:
@@ -94,6 +94,7 @@ Execute o comando:
 
 
 Em seguida, a janela com a interface gráfica será aberta.
+
 
 
 Dentro da interface, vá para a “Conexão DB” e veja se os dados colocados sobre o Banco de Dados estão corretos e depois clique em “Testar Conexão”, se aparecer em baixo “Status: Conectado com sucesso!” poderá prosseguir e acessar as outras abas, se não reajuste os dados de conexão e tente novamente.
